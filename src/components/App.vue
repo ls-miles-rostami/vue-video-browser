@@ -13,7 +13,7 @@ import SearchBar from './SearchBar.vue';
 import VideoList from './VideoList.vue';
 import VideoDetail from './VideoDetail.vue';
 import axios from 'axios';
-const API_KEY = 'AIzaSyC_ZjEMPGJcyposBtKc16lqftwuIjaawY4';
+
 
 export default {
   name: 'App',
